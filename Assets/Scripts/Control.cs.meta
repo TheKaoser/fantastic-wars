@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d79d6c1b28c226240bfc5f286fb810d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puntero: {instanceID: 0}
+  - punteroAzul: {instanceID: 0}
+  - punteroRojo: {instanceID: 0}
+  - objetivo: {instanceID: 0}
+  - sangre: {instanceID: 0}
+  - particulasMuerte: {instanceID: 0}
+  - particulasSpawn: {instanceID: 0}
+  - espadachin: {instanceID: 0}
+  - arquero: {instanceID: 0}
+  - trol: {instanceID: 0}
+  - templo: {instanceID: 0}
+  - muralla: {instanceID: 0}
+  - cuartel: {instanceID: 0}
+  - angel: {instanceID: 0}
+  - maravilla: {instanceID: 0}
+  - flecha: {fileID: 1107652007143332, guid: b13c28f1f2049884db0c767d7c9f32af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
