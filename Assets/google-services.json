@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650682026577",
+    "firebase_url": "https://fantastic-wars.firebaseio.com",
+    "project_id": "fantastic-wars",
+    "storage_bucket": "fantastic-wars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650682026577:android:3af4da0aae53857d",
+        "android_client_info": {
+          "package_name": "com.troncocaotico.fantasticwars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650682026577-qkl8erpgib4ehm1e36nh8j9gnugn55cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1V0Qzx_xhnMUqmIwgKmCazvvKM3JvxZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
